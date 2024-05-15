@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions id="789">
+    <order sym="SPY" amount="-1" limit="120" />
+</transactions>
+
+
+        <!-- normal order: match test18, 19-->

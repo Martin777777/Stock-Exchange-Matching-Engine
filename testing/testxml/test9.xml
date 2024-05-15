@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions id="123456">
+    <order amount="-1" limit="145.67" />
+</transactions>
+        <!-- error order: transactions symbol not exists -->

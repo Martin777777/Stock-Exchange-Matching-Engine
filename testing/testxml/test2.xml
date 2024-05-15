@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<create>
+    <account balance="1000"/>
+    <symbol sym="SPY">
+        <account id="123456">2000</account>
+    </symbol>
+</create>
+        <!-- error: create account id is null -->

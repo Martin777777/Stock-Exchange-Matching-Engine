@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions id="123456">
+    <cancel />
+</transactions>
+        <!-- error cancel: transactions id not exists -->

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<transactions id="123456">
+    <order sym="NOTEXISTS" amount="-1000" limit="145.67" />
+</transactions>
+        <!-- error order: symbol not exists -->

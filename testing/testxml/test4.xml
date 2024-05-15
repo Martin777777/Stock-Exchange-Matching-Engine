@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<create>
+    <symbol sym="BBB">
+        <account id="123456">2000</account>
+    </symbol>
+</create>
+
+        <!-- add another symbol -->
